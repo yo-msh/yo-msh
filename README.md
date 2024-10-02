@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Full Stack Online Judge platform using MERN and Docker.
+- 🌱 I’m currently learning cloud technologies like AWS and OpenStack.
+- 👯 I’m looking to collaborate on full-stack and DevOps projects.
+- 🤔 I’m looking for help with scaling cloud infrastructure.
+- 💬 Ask me about the MERN stack, competitive programming, or DevOps.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manvardhan-singh-harariya-738b5326b/) or manvardhansingh05@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I set up a personal NAS server at 19 with my friends!
