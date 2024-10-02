@@ -1,5 +1,5 @@
 # 💫 About Me
-- 🔭 I’m currently working on a Full Stack Online Judge platform using MERN and Docker.<br>- 🌱 I’m currently learning cloud technologies like AWS and OpenStack.<br>- 👯 I’m looking to collaborate on full-stack and DevOps projects.<br>- 🤔 I’m looking for help with scaling cloud infrastructure.<br>- 💬 Ask me about the MERN stack, competitive programming, or DevOps.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: I set up a personal NAS server at 19 with my friends!<br>
+<br>- 🔭 I’m currently working on a Full Stack Online Judge platform using MERN and Docker.<br>- 🌱 I’m currently learning cloud technologies like AWS and OpenStack.<br>- 👯 I’m looking to collaborate on full-stack and DevOps projects.<br>- 🤔 I’m looking for help with scaling cloud infrastructure.<br>- 💬 Ask me about the MERN stack, competitive programming, or DevOps.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: I set up a personal NAS server with my friends!<br>
 
 
 <!-- ## 🌐 Socials:
